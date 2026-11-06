@@ -165,6 +165,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ilert](https://github.com/iLert/mcp-ilert)** - Interact with [ilert](https://ilert.com) through natural language.
 - **[JetBrains](https://github.com/JetBrains/mcp-jetbrains)** – Work on your code with JetBrains IDEs
 - **[Jetty.io](https://github.com/jettyio/mlcbakery/tree/main/mcp_server)** — Work on dataset metadata with MLCommons Croissant validation and creation.
+- **[JobsPipe](https://github.com/jobspipe/mcp)** - Hosted MCP server for [JobsPipe](https://jobspipe.dev): search live job postings from 30+ ATS feeds and job boards in one normalized schema. Endpoint: `https://mcp.jobspipe.dev/mcp` · [Docs](https://docs.jobspipe.dev/ai-agents/mcp)
 - **[Kagi Search](https://github.com/kagisearch/kagimcp)** - Search the web using Kagi's search API
 - **[Keboola](https://github.com/keboola/keboola-mcp-server)** - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 - **[Kiwi.com](<[https://www.kiwi.com](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)>)** - Official [Kiwi.com](https://www.kiwi.com) flight search MCP server. Search and book flights directly from your favorite AI assistant.
